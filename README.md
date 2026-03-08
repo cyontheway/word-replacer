@@ -57,12 +57,12 @@ python main.py
 
 ## 依赖
 
-- fastapi >= 0.100.0
-- uvicorn >= 0.23.0
-- python-docx >= 0.8.11
-- pandas >= 2.0.0
-- openpyxl >= 3.1.0
-- python-multipart >= 0.0.6
+- fastapi >= 0.100.0 (MIT License)
+- uvicorn >= 0.23.0 (BSD License)
+- python-docx >= 0.8.11 (MIT License)
+- pandas >= 2.0.0 (BSD 3-Clause License)
+- openpyxl >= 3.1.0 (MIT License)
+- python-multipart >= 0.0.6 (Apache License 2.0)
 
 ## 使用方法
 
@@ -75,7 +75,3 @@ python main.py
 ## 许可证
 
 MIT License
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request。
