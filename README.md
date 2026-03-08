@@ -52,7 +52,8 @@ python main.py
 ## 技术栈
 
 - **后端**: FastAPI + Python
-- **前端**: HTML + CSS + JavaScript (Tailwind CSS)
+- **前端**: HTML + CSS + JavaScript
+- **样式**: Tailwind CSS (MIT License)
 - **文档处理**: python-docx
 
 ## 依赖
